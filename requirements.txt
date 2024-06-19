@@ -1,0 +1,21 @@
+Libraries used for running all files:
+
+shutil
+torch
+torchvision
+numpy
+matplotlib
+sklearn
+tqdm
+time
+pandas
+json
+sys
+PIL
+collections
+cv2
+os
+transformers
+
+
+
